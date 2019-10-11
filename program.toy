@@ -1,0 +1,11 @@
+IMPORT yeet;
+IMPORT duck;
+
+PUBLIC CLASS main EXTENDS yeet;
+{
+    PUBLIC STATIC VOID main(INT kek) {
+        INT a;
+        a = null;
+        PRINT a;
+    }
+}
